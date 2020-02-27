@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.hobbies_photos {
+  width: 100%;
+}
+
+.hobbies_jumbotron {
+  background-color: mintcream;
+}
